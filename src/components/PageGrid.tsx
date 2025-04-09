@@ -1,5 +1,6 @@
 import { useState, ReactNode } from "react";
 import Sphere from "./Sphere";
+import AnotherOne from "./AnotherOne";
 
 const PageGrid = () => {
   const colStyle = { backgroundColor: "blue" };
