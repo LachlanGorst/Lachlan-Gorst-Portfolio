@@ -1,3 +1,4 @@
+import AnotherOne from "./components/AnotherOne";
 import PageGrid from "./components/PageGrid";
 import { useEffect } from "react";
 
@@ -16,7 +17,7 @@ function App() {
     <div className="main-div">
       {/*<Alert>hey</Alert>*/}
       {/*<CarComponent choice={true} />*/}
-      <PageGrid></PageGrid>
+      <PageGrid />
       {/*
       <ListGroup
         items={[]}
