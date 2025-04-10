@@ -21,6 +21,7 @@ const AnotherOne = () => {
     >
       <h1>Count: {count.current}</h1>
       <p>testing branch</p>
+      <h2>COOL FEATURE</h2>
       {/*<h1>Count: {count.current}</h1>
       <ul>
         {myList.map((value, key) => (
